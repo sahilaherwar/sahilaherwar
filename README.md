@@ -8,7 +8,7 @@
 
 ### Professional Coordinates : 
 
-- 👨‍💻 Portfolio : [https://sahilaherwar1107.netlify.app/](https://sahilaherwar1107.netlify.app/)
+- 👨‍💻 Portfolio : [https://sahilaherwar.netlify.app/](https://sahilaherwar1107.netlify.app/)
 
 - 📫 Hit me up at : **sahilaherwar74658@gmail.com**
 - 📄 Click [here](https://docs.google.com/document/d/1iQpDrDRxAk7S6iB00eJ6FwszdkxyvROJc9kmCOhysBU/edit?usp=sharing) for resume
